@@ -1,0 +1,18 @@
+h1{
+    background-color: blue;
+    color: silver;
+    text-align: center;
+}
+a{
+    padding: 20px;
+    background-color: green;
+    color: white;
+}
+a :hover{
+    background-color: lightseagreen;
+    color: white;
+}
+footer{
+    padding: 20px;
+    background-color: red;
+    color: white;
